@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="120" height="40" viewBox="0 0 120 40">
+  <text x="10" y="28" font-family="Orbitron" font-size="24" fill="#00f7ff">Ash</text>
+  <text x="58" y="28" font-family="Orbitron" font-size="24" fill="#ff00e5">Core</text>
+  <circle cx="110" cy="12" r="6" fill="#9600ff" opacity="0.8">
+    <animate attributeName="r" values="6;8;6" dur="2s" repeatCount="indefinite" />
+  </circle>
+</svg>

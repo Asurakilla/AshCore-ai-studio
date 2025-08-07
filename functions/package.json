@@ -1,0 +1,16 @@
+{
+  "name": "ashcore",
+  "version": "1.0.0",
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-router-dom": "^6.0.0",
+    "styled-components": "^6.0.0",
+    "particles.js": "^2.4.2",
+    "three": "^0.150.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build"
+  }
+}
